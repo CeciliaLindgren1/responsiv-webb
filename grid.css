@@ -1,0 +1,5 @@
+.container {
+  display: grid;
+  grid-templates-columns: repeat(5,100fr);
+  grid-templates-rows: 40px  40px  200px 40px:
+}
